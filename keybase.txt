@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/c0r0nel
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://c0r0nel.github.io
+  * I am c0r0nel (https://keybase.io/c0r0nel) on keybase.
+  * I have a public key ASBG9mXjS8H68coxRGOvPHGPzbepEa0pyHngwDy573IFPwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012046f665e34bc1faf1ca314463af3c718fcdb7a911ad29c879e0c03cb9ef72053f0a",
+      "host": "keybase.io",
+      "kid": "012046f665e34bc1faf1ca314463af3c718fcdb7a911ad29c879e0c03cb9ef72053f0a",
+      "uid": "b5fbf2e0ac085ed33cd6216b3bf12d19",
+      "username": "c0r0nel"
+    },
+    "merkle_root": {
+      "ctime": 1552661739,
+      "hash": "5caec25fa882bd713b56558e96e88feed587089edfec3d47a1a848d14278a3de2513a09e9c72333d4fc8d8ce9ff7fcd48ae069f0dc1852993ec5a8dd314477ce",
+      "hash_meta": "06b2ec03e474b086351fdb5debc6754c01536a849d24b488eee7743ee17b3b55",
+      "seqno": 4956141
+    },
+    "service": {
+      "entropy": "MgBk9kXsdXl2ISfFVLMqfqhg",
+      "hostname": "c0r0nel.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.1.2"
+  },
+  "ctime": 1552661753,
+  "expire_in": 504576000,
+  "prev": "76bc03b9de5c2dfd7f94e765ca62c16790d9bd6ad0841a1913ee2d9df1651fe9",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgRvZl40vB+vHKMURjrzxxj823qRGtKch54MA8ue9yBT8Kp3BheWxvYWTESpcCDsQgdrwDud5cLf1/lOdlymLBZ5DZvWrQhBoZE+4tnfFlH+nEICVa9RsVcUAkBcOmkjCnTvm6FQJfkX1WSvvBxAaeDxddAgHCo3NpZ8RAuKE0t/pwtvqmNK5Jrb9Xcemwzs41BeSLSR49h0TsiRq/wuGkpOByS/i7Q1ex5cfxoqVInMy7H4yBhVXLnPJQCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIndoV1o3vKOe1Ljw3pqSCys5HaTSPoDJZvqXJ445Jfpo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/c0r0nel
+
+==================================================================
